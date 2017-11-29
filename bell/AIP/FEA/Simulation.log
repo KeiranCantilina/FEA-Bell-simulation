@@ -1,0 +1,27 @@
+﻿Study Modal Analysis:1 started: 9/30/2016, 11:17:21 AM
+Number of configurations: 1
+Default mesh: 21346 elements, 37857 nodes
+Computed 8 frequency modes
+Solution time 6s
+Reached the total number of h refinements 
+Study Modal Analysis:1 finished: 9/30/2016, 11:17:28 AM
+Total time 0:00:07
+
+Study Modal Analysis:1 started: 9/30/2016, 11:29:40 AM
+Number of configurations: 1
+Default mesh: 21346 elements, 37857 nodes
+Computed 16 frequency modes
+Solution time 10.8s
+Reached the total number of h refinements 
+Study Modal Analysis:1 finished: 9/30/2016, 11:29:51 AM
+Total time 0:00:11
+
+Study Modal Analysis:1 started: 9/30/2016, 12:29:04 PM
+Number of configurations: 1
+Default mesh: 83272 elements, 134860 nodes
+Computed 16 frequency modes
+Solution time 39.7s
+Reached the total number of h refinements 
+Study Modal Analysis:1 finished: 9/30/2016, 12:29:46 PM
+Total time 0:00:41
+
